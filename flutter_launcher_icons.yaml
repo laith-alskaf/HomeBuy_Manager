@@ -1,0 +1,7 @@
+flutter_launcher_icons:
+  image_path: "assets/icon/icon.png"
+
+  android: "launcher_icon"
+  adaptive_icon_foreground: "assets/icon/icon.png" 
+  adaptive_icon_background: "#F8FAFC" # هذا هو لون background من لوحة ألوانك
+  min_sdk_android: 21

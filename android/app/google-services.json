@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468303168507",
+    "project_id": "alarab-99255",
+    "storage_bucket": "alarab-99255.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468303168507:android:9d5ca02c7ab51e8760415e",
+        "android_client_info": {
+          "package_name": "com.example.homebuy_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXqsNxVssowN1lSmoJNUIt8924f-nSZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
