@@ -1,6 +1,6 @@
 name: homebuy_manager
 description: A professional home purchase and inventory management app.
-publish_to: 'none'
+publish_to: 'https://github.com/laith-alskaf/HomeBuy_Manager.git'
 version: 5.1.0
 
 environment:

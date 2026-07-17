@@ -112,7 +112,7 @@ lib/
 ### التثبيت
 1. انسخ المستودع:
    ```bash
-   git clone https://github.com/your-username/homebuy-manager.git
+   git clone https://github.com/laith-alskaf/HomeBuy_Manager.git
    ```
 2. تثبيت المكتبات:
    ```bash
